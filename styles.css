@@ -5,15 +5,4 @@
     padding: 15px;
     max-width: 600px;
     border-left: 8px solid green;
-    
-    /* Optional: Resets default browser margins for blockquotes */
-    margin-left: auto;
-    margin-right: auto;
-    display: flex;
-    align-items: center;
-}
-
-.questions p {
-    margin: 0;
-    font-family: sans-serif;
 }
